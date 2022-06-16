@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Carrot",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 150,
+      "Comment": "New Fresh product",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Bread",
+      "category": "Milk",
+      "freshness": "Brand New",
+      "price": 100,
+      "Comment": "Fresh product",
+      "date": "2022-06-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Pine Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 125,
+      "Comment": "newly arrived product",
+      "date": "2022-06-12T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 220,
+      "Comment": "Best product",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
